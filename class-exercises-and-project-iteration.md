@@ -1,3 +1,4 @@
 ## Week 2 - Class Discussion
 **In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? What are your hopes for the future of AI?**
+
 Although I am apprehensive of adopting AI into any form of creative practice, and approach it with a level of resentment, I feel as though it is doing things that are largely beneficial to human existence. In a utopian sense, AI is taking away the monotonous work that could free up humans to truly creative — to get to know ourselves in ways that previously weren't possible. With the mechanical movements of the mind delegated to an AI model, this will open up new space for something more substantial. 
