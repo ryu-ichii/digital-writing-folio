@@ -34,3 +34,6 @@ To use, Triscari’s terminology I am completely alienated from the metal, sitti
 
 What I agree with is Triscari’s observation that it is our responsibility as users of the internet, to become familiar with its mechanics. To obtain some level of autonomy and understanding that allows us to truly explore its possibilities. Rather than passive and wearisome engagement, E-lit (and other things) require curious and active understanding of the processes that take place behind the glitter. Much like how a writer must understand language to wield it, a user of the web should understand the inner workings of their digital platforms in the same manner. This is a relationship I acknowledge I have neglected and should probably improve in. I can see the creative outcomes a more intimate relationship could uncover. 
 ### Reflection on Process Documentation and Tracking Tools
+
+## Week 4
+### 
