@@ -3,7 +3,7 @@
 ### What makes a work a piece E-Literature?
 Electronic literature is art that is based in the written word but created in convergence with the added possibilities of computerisation. E-literature is constructed and developed in collaboration with cyberspace and intended for consumption in the digital realm. 
 
-From what I've absorbed from the readings, a work of E-literature must artistically engage with the process of digitisation beyond reasons of pure functionality. The computerisation of the written word must be an act of artmaking: traversing computation, multimedia, and interactivity in its realisation. 
+From what I've gathered from the readings, a work of E-literature must artistically engage with the process of digitisation beyond reasons of pure functionality. The computerisation of the written word must be an act of artmaking: traversing computation, multimedia, and interactivity in its realisation. 
 ### Of the key examples above, which did you like most and why?
 **The Gathering Cloud** struck the right chords. I could feel some sense of the possibilities of the field through the kinetic nature of the work. The writing in conjunction with the movement of the images, hyperlinks and animations made it feel like foreign ground. The interaction required to fully realise the piece encouraged me to truly dive into the Carpenter’s themes. The layers of media and different mediums pushed me deeper into this juxtaposition between computing and the cloud. 
 ### What do you expect from this class? What would you like to be better at by the end of semester?
