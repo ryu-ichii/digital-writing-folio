@@ -40,7 +40,7 @@ But I can confidently say that tracking tools and process documentation has most
 
 The MS Word function that allows me to view previous saves of a document has come in handy on several occasions, sometimes an earlier draft of a work has a clearer and more complete idea or train of thought that I’ve lost through the redrafting process. To document process is to capture the movements of the mind, allowing you to scrutinise them further and come closer to understanding. 
 ## Week 4
-### Analysis of the architecture (layers, structures, interactions) of hypertext works using Aarseth (1997) and Ryan (2006)
+### Analysis of the architecture (layers, structures, interactions) of hypertext works using Aarseth (1997) and Ryan (2006).
 *Analysing Vidya Rajan's [Real-Time-Cancellation-Adventure](https://cancellation-adventure.netlify.app/) (2020):*
 
-
+### Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition?
