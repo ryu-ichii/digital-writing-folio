@@ -57,3 +57,7 @@ As per the above reflections, the digital world seems to only exacerbate the sen
 
 Of course, these ideas are presently just ramblings and loose connections, but I hope to use them as a springboard for my future work of e-literature. 
 ## Week 5
+
+## Week 6
+### Progress Audit
+My early concept revolves around the reader's exerience of undertaking a new medicatation. We begin in the doctor's office before moving into an interactive exploration of psychosis and absurdity. What I have done so far adopts an internal mode of interactivity in which the reader identifies with the protagonist in the first-person perspective. I do plan on subverting this mode of interactivity throughout the work, especially as the psychosis begins to become more pronounced and take a stranglehold on the protagonist. 
