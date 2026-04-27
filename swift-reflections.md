@@ -66,3 +66,10 @@ For completion by Wednesday 22/04:
 - Interactivity map sketched out. Work on throughout the week prior and experiment with possible versions. Have 2-3 different options for interactivity sketches. 
 - Have a clear and well-established idea of beginning and end of  e-literature work. Frame the narrative within a structure that relates to the interactivity sketches, with thought out tangents and tensions. Rising of conflict etc. Have a strong idea of the plot points and lines, whether they weave or branch off. 
 - Have the Twine file begun with 4 potential rooms/slides that could be used, with sketched out prose and hyperlink or interacivity. Research alternative platforms for creating the work but finalise the creation method/platform by next week.
+## Week 7
+### Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+
+### Process Documentation
+What is the purpose of your piece? Was there an inspiration that brought it about?
+What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
