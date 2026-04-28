@@ -56,7 +56,6 @@ Recently, I’ve also become interested in the limitations of language and commu
 As per the above reflections, the digital world seems to only exacerbate the sense of absurdism present in ordinary life. An infinite loop of repetition and insatiability. There is so much work being done but it all seems to falter against a sort of inevitability. There is also a sort of surreality to the internet that I would like to engage with. I have always been interested in the state of psychosis, and I find things about the electronic dimension often mimics its sensations and characteristics. 
 
 Of course, these ideas are presently just ramblings and loose connections, but I hope to use them as a springboard for my future work of e-literature. 
-## Week 5
 
 ## Week 6
 ### Progress Audit
