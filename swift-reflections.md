@@ -58,13 +58,7 @@ As per the above reflections, the digital world seems to only exacerbate the sen
 Of course, these ideas are presently just ramblings and loose connections, but I hope to use them as a springboard for my future work of e-literature. 
 
 ## Week 6
-### Progress Audit
-My early concept revolves around the reader's exerience of undertaking a new medicatation. We begin in the doctor's office before moving into an interactive exploration of psychosis and absurdity, which is yet to be fully realised or mapped out. What I have done so far adopts an internal mode of interactivity in which the reader identifies with the protagonist in the first-person perspective. I do plan on subverting this mode of interactivity throughout the work, especially as the psychosis begins to become more pronounced and take a stranglehold on the protagonist. I want the mode of interactivity to spiral, and the control the reader holds over the plot to disintegrate as the plot progresses.  
-### Planning Session
-For completion by Wednesday 22/04:
-- Interactivity map sketched out. Work on throughout the week prior and experiment with possible versions. Have 2-3 different options for interactivity sketches. 
-- Have a clear and well-established idea of beginning and end of  e-literature work. Frame the narrative within a structure that relates to the interactivity sketches, with thought out tangents and tensions. Rising of conflict etc. Have a strong idea of the plot points and lines, whether they weave or branch off. 
-- Have the Twine file begun with 4 potential rooms/slides that could be used, with sketched out prose and hyperlink or interacivity. Research alternative platforms for creating the work but finalise the creation method/platform by next week.
+Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for process documentation.
 ## Week 7
 ### Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
 
