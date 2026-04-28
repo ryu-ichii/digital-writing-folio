@@ -7,4 +7,5 @@ My work is
 ## Week 7
 dfdfdf
 ### Second Interactivity Architecture Sketch
-<img width="2754" height="1470" alt="inter2" src="https://github.com/user-attachments/assets/0f682245-0f0c-4731-9e5c-2ddb1cdfbdc4" />
+<img width="2444" height="1156" alt="inter2" src="https://github.com/user-attachments/assets/0f7bd46a-35e5-4269-a1a0-0ee7d770249a" />
+
