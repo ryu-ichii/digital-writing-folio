@@ -70,6 +70,7 @@ Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii
 ***What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?***
 
 ***What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?***
+
 [X]	Prepare some notes over the week that I can refer to alongside the presentation slide. Keep the slides clean and succinct while having points for expansion and observation in my presentation notes. 
 [X]	Ensure the four rooms in TWINE are completed to a standard I am satisfied with. A presentable state that reflects my current vision for the work both textually and aestheically.
 [X]	Reflect on the processes, challenges, goals, and interactivity architecture sketches thus far for use in the presentation. 
