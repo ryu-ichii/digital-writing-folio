@@ -63,6 +63,7 @@ Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii
 ## Week 7
 ### Iteration
 ***Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step:***
+
 I have been adopting the process of iteration throughout the creation of my work. In both the planning and creation stages. In the mapping stage, I have sketched out three architectures entirely from scratch. Starting in a notebook before moving to Figma to better construct and organise my thoughts and their flow. Each iteration of my architecture map begun entirely from scratch but further developed the concepts and inspirations brought about by the previous iteration.
 
 Through the evolution of my architecture map, I have found the iterative process to be time consuming (due to starting from scratch each time) but also far more generative than editing a singular map. Letting go of a previous version but using it as a springboard assisted me in not holding on to extraneous and reductive trains of thought. Typically, I may have become attached to them, and unable to let go of them enough to truly realise the potential of the narrative.
@@ -71,6 +72,7 @@ Also, through iterations I have found that I’ve been able to create ground for
 
 ### Process Documentation
 ***What is the purpose of your piece? Was there an inspiration that brought it about?***
+
 The purpose of my work is to emulate the state of psychosis and the loss of control that is brought about by it whilst exploring the cyclical and repetitive nature of modern life. I hope to reproduce the absurd quality to human existence through the eLiterature form and create something that explores this terrain in a deeper and more dynamic way than possible with traditional print. I want to use the digital form to create something that justifies it, and not something that is chiselled down to fit into it but would otherwise work as a traditional text. 
 
 From my own experience of psychosis, I note an uncanny resemblance in how both the digital world and psychosis heighten the sense of absurdism present in ordinary life. The surrealism present in the experience of psychosis is something I still see in the digital world every day. On social media, on the infinite mill of content production, on the sort of anonymity and lack of definition. There is something undeniably uncomfortable and bizarre about how it functions.
@@ -78,11 +80,13 @@ From my own experience of psychosis, I note an uncanny resemblance in how both t
 My hope for this work, is to explore the inherent similarities between the digital sphere and ordinary life. As mentioned in my previous week four entry, language and existence itself seem to falter out against an inevitability. Our constant attempt to live and communicate is endless, we never quite reach our destination. Much like the constant stream of algorithms working endlessly behind the scenes, we are never quite complete. The process is insatiable. something about the endless stream 
 
 ***What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?***
+
 The architectural vision is that of a flowchart, like the one present in Ryan (2006) Figure 3b. The work moves quite efficiently; the branches or strands of plot that expand out from the doctor’s office always bring the reader back to the main plot. Although the reader is met with an array of options and decisions, the reader inevitably returns to the central narrative. Although randomisation and the varying paths function as different experiences, they all seek to assist in conveying the universal themes of the work.
 
 Although I have a much stronger idea for how randomisation will work in comparison to week six, I still need to establish the exact mechanics of it. I want to further explore how randomisation will function and how randomised things will truly be. I also need to further explore the customisation capabilities of TWINE Harlowe. I want animations and visual elements, like moving and flashing text, to better embody the complete confusion and surreality of psychosis. In these random passages I want the text and design elements to work together to recreate its debilitating and world-bending effects.
 
 ***What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?***
+
 - [X]	Prepare some notes over the week that I can refer to alongside the presentation slide. Keep the slides clean and succinct while having points for expansion and observation in my presentation notes. 
 - [X]	Ensure the four rooms in TWINE are completed to a standard I am satisfied with. A presentable state that reflects my current vision for the work both textually and aestheically.
 - [X]	Reflect on the processes, challenges, goals, and interactivity architecture sketches thus far for use in the presentation. 
