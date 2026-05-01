@@ -58,11 +58,15 @@ As per the above reflections, the digital world seems to only exacerbate the sen
 Of course, these ideas are presently just ramblings and loose connections, but I hope to use them as a springboard for my future work of e-literature. 
 
 ## Week 6
-Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for process documentation and planning.
+Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for process documentation and planning across week 7 and 7.
 ## Week 7
-### Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+### Iteration
+***Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step:***
+
 
 ### Process Documentation
-What is the purpose of your piece? Was there an inspiration that brought it about?
-What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
-What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+***What is the purpose of your piece? Was there an inspiration that brought it about?***
+
+***What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?***
+
+***What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?***
