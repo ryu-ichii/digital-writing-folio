@@ -58,7 +58,7 @@ As per the above reflections, the digital world seems to only exacerbate the sen
 Of course, these ideas are presently just ramblings and loose connections, but I hope to use them as a springboard for my future work of e-literature. 
 
 ## Week 6
-Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for process documentation and planning across week 7 and 7.
+Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for process documentation and planning across week 6 and 7.
 
 ## Week 7
 ### Iteration
