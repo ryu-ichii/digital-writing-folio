@@ -93,3 +93,23 @@ Although I have a much stronger idea for how randomisation will work in comparis
 - [X]	Ensure the four rooms in TWINE are completed to a standard I am satisfied with. A presentable state that reflects my current vision for the work both textually and aestheically.
 - [X]	Reflect on the processes, challenges, goals, and interactivity architecture sketches thus far for use in the presentation. 
 - [X]	Delve deeper into the overall objective and of my work and what it seeks to convey and capture. The politics or philsophy of the work.
+
+## Week 10
+
+Key learning moments (“light‑bulb” moments)
+Insights from studio, group, and personal creative process
+Connections to scholarly contexts from course readings
+Reflection on how your work fits into the broader field of digital writing practice.
+
+Some key moments occurred in my initial case study of the eLiterature work ‘motions’. My slightly pessimistic attitude towards the form was dismissed upon feeling the effects and impact of it. I could see the expanded sensory and emotional depth that could be explored by it in how motions truly captured the sensations and tragedy of human trafficking through its use of language and computerisation. The two modes of expression were intwined with grace and finesse that allowed it to be more effectual than a traditional memoir or case study. 
+
+Setting out with an overarching sense of dread and hopelessness, mostly born from fear of the form and my own creative ability to create within it, at some point I rolled over this speed bump and onto the freeway of free-flowing ideas. That was the most exciting part, was suddenly and randomly having an idea at various times and locations. The work was flowering in my subconscious, and I was quickly filled with inspiration and possibility. 
+
+
+-	Write Bio for Author Website at least 100 words
+-	Include link to published eLiterature work
+-	Links to other writing?
+-	Bitsy Game
+-	Swift reflections and Process Doc (include link to process doc in swift reflections
+
+Refer to [class-exercises-and-project-iteration.md](https://github.com/ryu-ichii/digital-writing-folio/blob/main/class-exercises-and-project-iteration.md) for week 10 progress audit.
