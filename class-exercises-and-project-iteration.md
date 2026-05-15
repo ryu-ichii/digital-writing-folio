@@ -29,3 +29,21 @@ Through remapping and refining my understanding of the work, I have a much bette
 ### Second Interactivity Architecture Sketch
 <img width="2444" height="1156" alt="inter2" src="https://github.com/user-attachments/assets/0f7bd46a-35e5-4269-a1a0-0ee7d770249a" />
 
+## Week 10
+### Progress Audit
+Questions to consider: could the written parts of the work be developed if so, how? What do you want more of as a reader/user? What are you curious about? Is there room for more complexity? Or on the contrary, is there a need for futher clarity and simplification?
+-	The written parts currently sit at a decent amount
+-	Could cut down some rooms
+-	
+
+Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
+-	More context
+-	Psychosis slides work up
+-	Prose could be improved
+-	I’ve received mostly positive feedback and advice on how to continue working up the piece.
+-	Introducing different voices to the psychosis slides. 
+
+3 key tasks:
+-	Build another 4 rooms with fully realised aesthetics 
+-	Write out another 10 rooms worth of prose (doesn’t have to be on TWINE) 
+-	Increase the chaos of the current psychosis room and add another psychosis room (the text and the randomisation).
