@@ -32,13 +32,12 @@ Through remapping and refining my understanding of the work, I have a much bette
 ## Week 10
 ### Progress Documentation
 **Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.**
--	The written parts currently sit at a decent amount
--	Could cut down some rooms
--	More context
--	Psychosis slides work up
--	Prose could be improved
--	I’ve received mostly positive feedback and advice on how to continue working up the piece.
--	Introducing different voices to the psychosis slides. 
+
+Feedback I received was mostly positive and helpful in that I now believe there is enough promise to the work to justify it’s eLiterature form. The feedback mostly enjoyed the digital aspect and the benefits that this computerisation provided — animations, image layering, text and sound effects etc. The main advice was to push these things further and explore even more possibilities, which I will continue to do, particularly in the randomisation and psychosis rooms of the work. 
+
+Mostly, this feedback has encouraged me to make the prose a more essential and complete component of the work. I need to return to the process of prose generation with an understanding of its digital presentation and make it more impactful. The text must be aligned with the movement and interactivity of the work. 
+
+I also want to go deeper into relinquishing reader control through computation. Broken links, time delays, obscured text and imagery etc. I want the work to completely strip away reader autonomy at certain points and better emulate the lack of control and understanding inherent in the state of psychosis. Confusion, absurdity and apprehension should be provoked through both the text and digital elements. 
 
 *3 key tasks for completetion by Week 11:*
 - [X]	Build another 4 rooms with fully realised aesthetics and prose/poetry. Have these in keeping with the themes and dynamics of the eLiterature work thus far. Push myself to experiment further with aesthetics and features that can be born from the added computerisation element.
