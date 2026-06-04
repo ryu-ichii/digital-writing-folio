@@ -58,4 +58,4 @@ The work is coming along well although I have been somewhat overwhelmed by the a
 5. Finish the fragment and décor pools by the **1st of June **. Allow these to be inspected upon testing and altered throughout final iterations.
 6. Finish my first complete version of the work by the **3rd of June**. Allow time for testing and improvements to all aspects. Work up on the final days.
 7. Finish final draft of reflection, cover sheet and other various requirements listed in the class ReadMe in assessment outline— **4th of June**.
--	Submit on the **5th of June** 
+8. Submit on the **5th of June** 
