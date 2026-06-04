@@ -1,4 +1,4 @@
-<img width="468" height="222" alt="image" src="https://github.com/user-attachments/assets/c08c2cc2-9a0f-4fd0-a38b-8ffb374574e9" /><img width="468" height="222" alt="image" src="https://github.com/user-attachments/assets/4ebcb691-bd6a-46e1-b31e-ca6ee2ff6c90" /># Swift Reflections
+# Swift Reflections
 ## Week 1
 ### What makes a work a piece E-Literature?
 Electronic literature is art that is based in the written word but created in convergence with the added possibilities of computerisation. E-literature is constructed and developed in collaboration with cyberspace and intended for consumption in the digital realm. 
