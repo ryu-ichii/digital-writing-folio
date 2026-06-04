@@ -42,7 +42,7 @@ Through remapping and refining my understanding of the work, I have a much bette
 
 *3 key tasks for completetion by Week 11:*
 - [X]	-	Build another 4 rooms with fully realised aesthetics and prose/poetry. Have these in keeping with the themes and dynamics of the eLiterature work thus far. Push myself to experiment further with aesthetics and features that can be born from the added computerisation element.
-- [X]-	Write out another 10 rooms worth of prose (not on TWINE). Have this prose at a high standard with minimal edits or changes required. These can be reevaluated as I upload them onto my working TWINE project. Allow prose generation to inform the plot arcs and how the descent into intangibility occurs.
+- [X] -	Write out another 10 rooms worth of prose (not on TWINE). Have this prose at a high standard with minimal edits or changes required. These can be reevaluated as I upload them onto my working TWINE project. Allow prose generation to inform the plot arcs and how the descent into intangibility occurs.
 - [X] -	Increase the chaos of the current psychosis room and add two more psychosis rooms. Add more strings of text to fragment poools for randomisation and more visual and sounds effects that further assist in conveying and exploring the themes. All these aspects should inform one another as I continue the creation process.
 
 ## Week 11
