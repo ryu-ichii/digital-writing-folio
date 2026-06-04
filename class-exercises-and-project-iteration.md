@@ -30,7 +30,8 @@ Through remapping and refining my understanding of the work, I have a much bette
 <img width="2444" height="1156" alt="inter2" src="https://github.com/user-attachments/assets/0f7bd46a-35e5-4269-a1a0-0ee7d770249a" />
 
 ## Week 10
-### Progress Audit
+### Progress Documentation
+**Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.**
 -	The written parts currently sit at a decent amount
 -	Could cut down some rooms
 -	More context
@@ -39,7 +40,11 @@ Through remapping and refining my understanding of the work, I have a much bette
 -	I’ve received mostly positive feedback and advice on how to continue working up the piece.
 -	Introducing different voices to the psychosis slides. 
 
-*3 key tasks for completetion by next week:*
-- [ ]	Build another 4 rooms with fully realised aesthetics.
-- [ ] Write out another 10 rooms worth of prose (doesn’t have to be on TWINE)
-- [ ] Increase the chaos of the current psychosis room and add another psychosis room (the text and the randomisation).
+*3 key tasks for completetion by Week 11:*
+- [X]	-	Build another 4 rooms with fully realised aesthetics and prose/poetry. Have these in keeping with the themes and dynamics of the eLiterature work thus far. Push myself to experiment further with aesthetics and features that can be born from the added computerisation element.
+- [X]-	Write out another 10 rooms worth of prose (not on TWINE). Have this prose at a high standard with minimal edits or changes required. These can be reevaluated as I upload them onto my working TWINE project. Allow prose generation to inform the plot arcs and how the descent into intangibility occurs.
+- [X] -	Increase the chaos of the current psychosis room and add two more psychosis rooms. Add more strings of text to fragment poools for randomisation and more visual and sounds effects that further assist in conveying and exploring the themes. All these aspects should inform one another as I continue the creation process.
+
+## Week 11
+### Progress Documentation
+**What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.**
