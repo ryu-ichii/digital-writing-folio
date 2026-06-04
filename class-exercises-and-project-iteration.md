@@ -48,14 +48,14 @@ Through remapping and refining my understanding of the work, I have a much bette
 ## Week 11
 ### Progress Documentation
 **What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.**
-The work is coming along well although I have been somewhat overwhelmed by the added possibility of its computational context. I have added a myriad of features, effects and randomisation options that have brought about a state of creative paralysis. What’s most import at this stage is to return to the prose and write into the computational possibility without being overwhelmed by it. I need more poetic fragments for the layering functions and more fragments for the randomisation pools to pull from. I think what’s most important is finishing off the basic coding and functionality (CSS and JS) so that I allow myself time to realise the kinetics and interactions of the work. Then I can spend more time on the relationship between text, sound and image. 
+The work is coming along well although I have been somewhat overwhelmed by the added possibility of its computational context. I have added a myriad of features, effects and randomisation options that have brought about a state of creative paralysis. What’s most import at this stage is to return to the prose and write into the computational possibility without being overwhelmed by it. I need more poetic fragments for the layering functions and more fragments for the randomisation pools to pull from. I think what’s most important is finishing off the basic coding and functionality (CSS and JS) so that I allow myself time to realise the prose, kinetics and interactions of the work. Then I can spend more time on the relationship between text, sound and image as I finish it off. 
 
 **Priority List with Soft Deadlines:**
 1. Edit and upload all images and sounds being used to TWINE by the **25th of May**. Ensure these are identified and labelled in the code (HAL tracks, background tracks, collage tags etc.) Time consuming but important to finish earlier to allow for experimentation and realisation of functions and themes.
 2. Complete coding skeleton of the work by the **27th of May**. All features and functions complete and documented for ease of use. Of course, these may be altered but the desired complexity should be reached. I shouldn’t be adding much in terms of features after this point. 
-3. Ensure all Swift Reflections and Process Documentation is completed — **29th of May**. Finalise the first full draft of reflection and work up as due date approaches. 
+3. Ensure all Swift Reflections and Process Documentation is completed — **29th of May**. Finalise a first full draft of reflection and work up as due date approaches. 
 4. Finish the regular passage/room prose by the **30th of May**. It can still be edited and reevaluated, but the skeleton should be up in TWINE so it can inform and adapt to its digital canvas.
 5. Finish the fragment and décor pools by the **1st of June **. Allow these to be inspected upon testing and altered throughout final iterations.
-6. Finish my first complete version of the work by the **3rd of June**. Allow time for testing and improvements to all aspects. Work up on the final days.
-7. Finish final draft of reflection, cover sheet and other various requirements listed in the class ReadMe in assessment outline— **4th of June**.
-8. Submit on the **5th of June** 
+6. Finish my first complete version of the work by the **2nd of June**. Allow time for testing and improvements to all aspects. Work up on the final days.
+7. Finish final draft of reflection, cover sheet and other various requirements listed in the class ReadMe in assessment outline — **4th of June**.
+8. Submit on the **5th of June**. 
